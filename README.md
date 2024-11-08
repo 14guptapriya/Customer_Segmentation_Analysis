@@ -1,5 +1,4 @@
 # Customer_Segmentation_Analysis
-# Customer Segmentation Project using K-Means Clustering and Power BI
 
 ## Project Overview
 
@@ -47,7 +46,7 @@ The Power BI dashboard visualizes customer segments and their attributes in an i
 - **Slicers** to filter by age group, income range, or cluster number.
 - **Matrix** to showc cluster profile.
 
-![Customer Segmentation Dashboard](https://github.com/yourusername/yourrepositoryname/blob/main/images/customer-segmentation-dashboard.png)
+![Customer Segmentation Power BI Report](https://github.com/yourusername/yourrepositoryname/blob/main/images/customer-segmentation-dashboard.png)
 
 
 ## Getting Started
@@ -62,10 +61,10 @@ To replicate the analysis or run this project locally, follow these steps:
 ### Setup and Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/yourrepositoryname.git
+   git clone https://github.com/14guptapriya/Customer_Segmentation_Analysis.git
 2. Install the necessary Python packages:
 3. Run the K-Means clustering analysis in the Jupyter notebook:
    jupyter notebook analysis/kmeans-clustering-analysis.ipynb
 4. Open the Customer_Segmentation.pbix file in Power BI Desktop to view the interactive dashboard.
-5. 
+
 
