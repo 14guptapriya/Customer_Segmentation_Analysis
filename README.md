@@ -46,7 +46,7 @@ The Power BI dashboard visualizes customer segments and their attributes in an i
 - **Slicers** to filter by age group, income range, or cluster number.
 - **Matrix** to showc cluster profile.
 
-![Customer Segmentation Power BI Report](https://github.com/yourusername/yourrepositoryname/blob/main/images/customer-segmentation-dashboard.png)
+![Customer Segmentation Power BI Report](https://github.com/14guptapriya/Customer_Segmentation_Analysis/blob/main/Customer_Segmentation-Report.png)
 
 
 ## Getting Started
